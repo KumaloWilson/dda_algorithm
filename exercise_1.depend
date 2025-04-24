@@ -1,0 +1,228 @@
+# depslib dependency file v1.0
+1745452251 source:/home/watkay/open_gl_projects/exercise_1/main.c
+	<stdio.h>
+	<stdlib.h>
+	"straight.h"
+	"curved.h"
+
+1624570619 /usr/include/GL/glu.h
+	<GL/gl.h>
+
+1694527320 /usr/include/GL/gl.h
+	<windows.h>
+	<GL/glext.h>
+
+1694527320 /usr/include/GL/glext.h
+	<windows.h>
+	<KHR/khrplatform.h>
+
+1694527320 /usr/include/KHR/khrplatform.h
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+
+1741992988 /usr/include/stdint.h
+	<bits/libc-header-start.h>
+	<bits/types.h>
+	<bits/wchar.h>
+	<bits/wordsize.h>
+	<bits/stdint-intn.h>
+	<bits/stdint-uintn.h>
+	<bits/stdint-least.h>
+
+1741992988 /usr/include/inttypes.h
+	<features.h>
+	<stdint.h>
+	<stddef.h>
+
+1741992988 /usr/include/features.h
+	<features-time64.h>
+	<stdc-predef.h>
+	<sys/cdefs.h>
+	<gnu/stubs.h>
+
+1741992988 /usr/include/features-time64.h
+	<bits/wordsize.h>
+	<bits/timesize.h>
+
+1741992988 /usr/include/stdc-predef.h
+
+1665159171 /usr/include/GL/glut.h
+	"freeglut_std.h"
+
+1665159171 /usr/include/GL/freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1694527320 /usr/include/EGL/egl.h
+	<EGL/eglplatform.h>
+	<KHR/khrplatform.h>
+	<EGL/eglplatform.h>
+
+1694527320 /usr/include/EGL/eglplatform.h
+	<KHR/khrplatform.h>
+	<windows.h>
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<kernel/image.h>
+
+1742538650 /usr/include/X11/Xlib.h
+	<sys/types.h>
+	<stdint.h>
+	<X11/X.h>
+	<X11/Xfuncproto.h>
+	<X11/Xosdefs.h>
+	<stddef.h>
+
+1713444456 /usr/include/X11/X.h
+	<X11/Xmd.h>
+
+1713444456 /usr/include/X11/Xmd.h
+	<sys/isa_defs.h>
+
+1713444456 /usr/include/X11/Xfuncproto.h
+
+1713444456 /usr/include/X11/Xosdefs.h
+
+1742538650 /usr/include/X11/Xutil.h
+	<X11/Xlib.h>
+	<X11/keysym.h>
+
+1713444456 /usr/include/X11/keysym.h
+	<X11/keysymdef.h>
+
+1713444456 /usr/include/X11/keysymdef.h
+
+1694527320 /usr/include/GLES/gl.h
+	<GLES/glplatform.h>
+	<KHR/khrplatform.h>
+
+1694527320 /usr/include/GLES/glplatform.h
+	<KHR/khrplatform.h>
+
+1694527320 /usr/include/GLES2/gl2.h
+	<GLES2/gl2platform.h>
+	<KHR/khrplatform.h>
+
+1694527320 /usr/include/GLES2/gl2platform.h
+	<KHR/khrplatform.h>
+
+1741992988 /usr/include/stdlib.h
+	<bits/libc-header-start.h>
+	<stddef.h>
+	<bits/waitflags.h>
+	<bits/waitstatus.h>
+	<bits/floatn.h>
+	<bits/types/locale_t.h>
+	<sys/types.h>
+	<alloca.h>
+	<bits/stdlib-bsearch.h>
+	<bits/stdlib-float.h>
+	<bits/stdlib.h>
+	<bits/floatn.h>
+	<bits/stdlib-ldbl.h>
+
+1741992988 /usr/include/alloca.h
+	<features.h>
+	<stddef.h>
+
+1745452209 source:/home/watkay/open_gl_projects/exercise_1/curved.c
+	<GL/glut.h>
+	<math.h>
+	<stdio.h>
+	<stdbool.h>
+	"curved.h"
+
+1741992988 /usr/include/math.h
+	<bits/libc-header-start.h>
+	<bits/types.h>
+	<bits/math-vector.h>
+	<bits/floatn.h>
+	<bits/flt-eval-method.h>
+	<bits/fp-logb.h>
+	<bits/fp-fast.h>
+	<bits/mathcalls-macros.h>
+	<bits/mathcalls-helper-functions.h>
+	<bits/mathcalls.h>
+	<bits/mathcalls-helper-functions.h>
+	<bits/mathcalls.h>
+	<bits/mathcalls-helper-functions.h>
+	<bits/mathcalls.h>
+	<bits/mathcalls-helper-functions.h>
+	<bits/mathcalls.h>
+	<bits/mathcalls-helper-functions.h>
+	<bits/mathcalls.h>
+	<bits/mathcalls-helper-functions.h>
+	<bits/mathcalls.h>
+	<bits/mathcalls-helper-functions.h>
+	<bits/mathcalls.h>
+	<bits/mathcalls-helper-functions.h>
+	<bits/mathcalls.h>
+	<bits/mathcalls-helper-functions.h>
+	<bits/mathcalls.h>
+	<bits/mathcalls-helper-functions.h>
+	<bits/mathcalls.h>
+	<bits/mathcalls-narrow.h>
+	<bits/mathcalls-narrow.h>
+	<bits/mathcalls-narrow.h>
+	<bits/mathcalls-narrow.h>
+	<bits/mathcalls-narrow.h>
+	<bits/mathcalls-narrow.h>
+	<bits/mathcalls-narrow.h>
+	<bits/mathcalls-narrow.h>
+	<bits/mathcalls-narrow.h>
+	<bits/mathcalls-narrow.h>
+	<bits/mathcalls-narrow.h>
+	<bits/mathcalls-narrow.h>
+	<bits/mathcalls-narrow.h>
+	<bits/mathcalls-narrow.h>
+	<bits/mathcalls-narrow.h>
+	<bits/mathcalls-narrow.h>
+	<bits/mathcalls-narrow.h>
+	<bits/mathcalls-narrow.h>
+	<bits/mathcalls-narrow.h>
+	<bits/mathcalls-narrow.h>
+	<bits/mathcalls-narrow.h>
+	<bits/mathcalls-narrow.h>
+	<bits/mathcalls-narrow.h>
+	<bits/mathcalls-narrow.h>
+	<bits/iscanonical.h>
+
+1741992988 /usr/include/stdio.h
+	<bits/libc-header-start.h>
+	<stddef.h>
+	<stdarg.h>
+	<bits/types.h>
+	<bits/types/__fpos_t.h>
+	<bits/types/__fpos64_t.h>
+	<bits/types/__FILE.h>
+	<bits/types/FILE.h>
+	<bits/types/struct_FILE.h>
+	<bits/types/cookie_io_functions_t.h>
+	<stdarg.h>
+	<bits/stdio_lim.h>
+	<bits/floatn.h>
+	<bits/getopt_posix.h>
+	<bits/stdio2-decl.h>
+	<bits/stdio-ldbl.h>
+	<bits/stdio.h>
+	<bits/stdio2.h>
+
+1745452186 source:/home/watkay/open_gl_projects/exercise_1/straight.c
+	<GL/glut.h>
+	<math.h>
+	<stdio.h>
+	<stdbool.h>
+	"straight.h"
+
+1745452503 /home/watkay/open_gl_projects/exercise_1/curved.h
+
+1745452515 /home/watkay/open_gl_projects/exercise_1/straight.h
+
